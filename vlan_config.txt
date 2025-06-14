@@ -1,0 +1,8 @@
+vlan 10
+ name Users
+vlan 20
+ name Voice
+vlan 30
+ name Management
+vlan 40
+ name Guests
